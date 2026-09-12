@@ -64,4 +64,4 @@ The app will open at `http://localhost:8501`.
   that ATS systems can't parse).
 
 ## Author
-(Shalu Patel) — B.Tech CSE(AIML), GGITS Jabalpur
+(Your name) — B.Tech CSE, GGITS Jabalpur
